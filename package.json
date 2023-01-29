@@ -72,7 +72,7 @@
   "dependencies": {
     "cardinal": "^2.1.1",
     "joi": "^13.1.2",
-    "json2csv": "^3.7.1",
+    "json2csv": "^6.0.0-alpha.2",
     "lazy-require": "^2.2.0",
     "lodash": "^4.17.13",
     "strip-ansi": "^4.0.0",
